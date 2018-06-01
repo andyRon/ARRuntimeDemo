@@ -12,8 +12,7 @@
 {
     NSString * firstName;
 }
-@property (nonatomic, assign) int age; //公开属性
-
+@property (nonatomic, assign) int age;
 
 +(void)run;
 +(void)study;

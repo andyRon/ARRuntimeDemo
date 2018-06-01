@@ -10,7 +10,7 @@
 
 @implementation Person
 {
-    NSString *lastname;  //实例变量（私有，实际是可以访问）
+    NSString *lastname;  
     float weight;
 }
 
